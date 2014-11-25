@@ -2,69 +2,69 @@ Harjoitus4, Leevi Rantala, Jere Kunnas
 
 Johdanto
 
-	Projekti: Sähköinen lääkemääräys, Apteekkijärjestelmä
+	Projekti: SÃ¤hkÃ¶inen lÃ¤Ã¤kemÃ¤Ã¤rÃ¤ys, ApteekkijÃ¤rjestelmÃ¤
 
-	-Järjestelmän vaatimusten kuvaus, järjestelmän tuleville kehittäjille ja käyttäjille.
+	-JÃ¤rjestelmÃ¤n vaatimusten kuvaus, jÃ¤rjestelmÃ¤n tuleville kehittÃ¤jille ja kÃ¤yttÃ¤jille.
 
 	-Valmis, versio 2.6
 
-	-Jotta tiedetään, kuinka ohjelmistoa kehittää (kun ollaan vielä vaiheessa) ja mitä vaaditaan.
+	-Jotta tiedetÃ¤Ã¤n, kuinka ohjelmistoa kehittÃ¤Ã¤ (kun ollaan vielÃ¤ vaiheessa) ja mitÃ¤ vaaditaan.
 
-	-Muutosluettelo, sisällysluettelo, johdanto, vaatimukset, apteekkeihin kohdistuvat vaatimukset.
+	-Muutosluettelo, sisÃ¤llysluettelo, johdanto, vaatimukset, apteekkeihin kohdistuvat vaatimukset.
 
-Käyttötapaukset
+KÃ¤yttÃ¶tapaukset
 
-	Mitä sillä voi tehdä?
-	-Muuta käyttäjän oikeuksia
-	-Tunnista käyttäjä ja tarkasta valtuutus
+	MitÃ¤ sillÃ¤ voi tehdÃ¤?
+	-Muuta kÃ¤yttÃ¤jÃ¤n oikeuksia
+	-Tunnista kÃ¤yttÃ¤jÃ¤ ja tarkasta valtuutus
 	-Kirjaudu ulos
-	-Alikäyttötapaus Hae tietoja Reseptikeskuksesta
-	-Alikäyttötapaus – Poista Reseptikeskuksesta haetut tiedot apteekkijärjestelmästä
-	-Valitse toimitettavat lääkemääräykset
-	-Tee lääketoimitus -Lähetä allekirjoitetut lääketoimitukset
-	-Tulosta yhteenveto sähköisistä lääkemääräyksistä
-	-Mitätöi lääketoimitus
-	-Korjaa lääkemääräystä
-	-Korjaa lääketoimitusta
-	-Päivitä lääkemääräyksen tilatietoja
-	-Lähetä uusimispyyntö
-	-Tarkasta lähetettyjen uusimispyyntöjen tilat
-	-Mitätöi lääkemääräys
-	-Lähetä allekirjoitettu lääkemääräyksen korjaus
-	-Lähetä allekirjoitettu lääkemääräyksen mitätöinti
-	-Lähetä allekirjoitettu lääketoimituksen mitätöinti
-	-Alikäyttötapaus
-	–Kirjaa käyttöloki
-	-Hae ja tarkastele käyttölokitietoja 
+	-AlikÃ¤yttÃ¶tapaus Hae tietoja Reseptikeskuksesta
+	-AlikÃ¤yttÃ¶tapaus â€“ Poista Reseptikeskuksesta haetut tiedot apteekkijÃ¤rjestelmÃ¤stÃ¤
+	-Valitse toimitettavat lÃ¤Ã¤kemÃ¤Ã¤rÃ¤ykset
+	-Tee lÃ¤Ã¤ketoimitus -LÃ¤hetÃ¤ allekirjoitetut lÃ¤Ã¤ketoimitukset
+	-Tulosta yhteenveto sÃ¤hkÃ¶isistÃ¤ lÃ¤Ã¤kemÃ¤Ã¤rÃ¤yksistÃ¤
+	-MitÃ¤tÃ¶i lÃ¤Ã¤ketoimitus
+	-Korjaa lÃ¤Ã¤kemÃ¤Ã¤rÃ¤ystÃ¤
+	-Korjaa lÃ¤Ã¤ketoimitusta
+	-PÃ¤ivitÃ¤ lÃ¤Ã¤kemÃ¤Ã¤rÃ¤yksen tilatietoja
+	-LÃ¤hetÃ¤ uusimispyyntÃ¶
+	-Tarkasta lÃ¤hetettyjen uusimispyyntÃ¶jen tilat
+	-MitÃ¤tÃ¶i lÃ¤Ã¤kemÃ¤Ã¤rÃ¤ys
+	-LÃ¤hetÃ¤ allekirjoitettu lÃ¤Ã¤kemÃ¤Ã¤rÃ¤yksen korjaus
+	-LÃ¤hetÃ¤ allekirjoitettu lÃ¤Ã¤kemÃ¤Ã¤rÃ¤yksen mitÃ¤tÃ¶inti
+	-LÃ¤hetÃ¤ allekirjoitettu lÃ¤Ã¤ketoimituksen mitÃ¤tÃ¶inti
+	-AlikÃ¤yttÃ¶tapaus
+	â€“Kirjaa kÃ¤yttÃ¶loki
+	-Hae ja tarkastele kÃ¤yttÃ¶lokitietoja 
 	
-	Käyttötapauskaavio(t)
+	KÃ¤yttÃ¶tapauskaavio(t)
 	
 	Kuinka yksityiskohtaisesti kuvattu?
-	Käyttötapaukset ovat kuvattu hyvin yksityiskohtaisesti, yhteenveto tapauksesta kerrottu, esiehdot, lopputulos, poikkeus- ja virhetilanteet kuvattu, käyttäjät ja roolit tapauksessa kuvattu ja onnistunut käyttötapaus kuvattu.
+	KÃ¤yttÃ¶tapaukset ovat kuvattu hyvin yksityiskohtaisesti, yhteenveto tapauksesta kerrottu, esiehdot, lopputulos, poikkeus- ja virhetilanteet kuvattu, kÃ¤yttÃ¤jÃ¤t ja roolit tapauksessa kuvattu ja onnistunut kÃ¤yttÃ¶tapaus kuvattu.
 	Kaikista tapauksista ei oltu kirjoitettu.
-	Skenaariot? tarinat? uloskirjautuminen 1)Varmistetaan käyttäjältä, että hän haluaa kirjautua ulos ja ettei hänellä ole tallentamattomia tietoja. 2) Mikäli käyttäjällä on kohdassa 3.1 Muuta käyttäjän oikeuksia kuvatut rajatut tai täydet oikeudet, suoritetaan käyttötapaus 3.5 Alikäyttötapaus – Poista Reseptikeskuksesta haetut tiedot apteekkijärjestelmäst 3) Käyttäjä kirjataan ulos apteekkijärjestelmästä 
+	Skenaariot? tarinat? uloskirjautuminen 1)Varmistetaan kÃ¤yttÃ¤jÃ¤ltÃ¤, ettÃ¤ hÃ¤n haluaa kirjautua ulos ja ettei hÃ¤nellÃ¤ ole tallentamattomia tietoja. 2) MikÃ¤li kÃ¤yttÃ¤jÃ¤llÃ¤ on kohdassa 3.1 Muuta kÃ¤yttÃ¤jÃ¤n oikeuksia kuvatut rajatut tai tÃ¤ydet oikeudet, suoritetaan kÃ¤yttÃ¶tapaus 3.5 AlikÃ¤yttÃ¶tapaus â€“ Poista Reseptikeskuksesta haetut tiedot apteekkijÃ¤rjestelmÃ¤st 3) KÃ¤yttÃ¤jÃ¤ kirjataan ulos apteekkijÃ¤rjestelmÃ¤stÃ¤ 
 	
-	Onko käyttöliittymästä kuvia?
+	Onko kÃ¤yttÃ¶liittymÃ¤stÃ¤ kuvia?
 	-ei ole
 	
-	Luonnoksia vai kuvakaappauksia valmiista käyttöliittymästä?
+	Luonnoksia vai kuvakaappauksia valmiista kÃ¤yttÃ¶liittymÃ¤stÃ¤?
 	-ei ole 
 	
 	Onko kuvattu? 
-	-voi olla myös erillisessä projektisuunnitelmadokumentissa
+	-voi olla myÃ¶s erillisessÃ¤ projektisuunnitelmadokumentissa
 
 
-Järjestelmän yleisrakenne
+JÃ¤rjestelmÃ¤n yleisrakenne
 
 	Vaatimukset kuvattu taulukoissa.
 
 Funktionaaliset & ei-funktionaaliset vaatimukset
 
-	Materiaalissa määritellään ainoastaan vaatimukset apteekkijärjestelmälle sen suhteen miten apteekkijärjestelmä käsittelee asiakastietoja.
-	On huomattavaa että asiakastiedon lainmukaisessa ja luottamuksellisessa käsittelyssä tulee tämän lisäksi huomioida myös muut asiaan liittyvät periaatteet, lait, ohjeet: ja standardit;
-	eettiset periaatteet, yhteisölainsäädäntö, mahdolliset kansainväliset sopimukset, kansalliset lait ja periaatteet, hallinnolliset ja toiminnalliset ohjeet sekä alaa koskevat standardit
+	Materiaalissa mÃ¤Ã¤ritellÃ¤Ã¤n ainoastaan vaatimukset apteekkijÃ¤rjestelmÃ¤lle sen suhteen miten apteekkijÃ¤rjestelmÃ¤ kÃ¤sittelee asiakastietoja.
+	On huomattavaa ettÃ¤ asiakastiedon lainmukaisessa ja luottamuksellisessa kÃ¤sittelyssÃ¤ tulee tÃ¤mÃ¤n lisÃ¤ksi huomioida myÃ¶s muut asiaan liittyvÃ¤t periaatteet, lait, ohjeet: ja standardit;
+	eettiset periaatteet, yhteisÃ¶lainsÃ¤Ã¤dÃ¤ntÃ¶, mahdolliset kansainvÃ¤liset sopimukset, kansalliset lait ja periaatteet, hallinnolliset ja toiminnalliset ohjeet sekÃ¤ alaa koskevat standardit
 
-Miltä se näyttää
+MiltÃ¤ se nÃ¤yttÃ¤Ã¤
 
 	Ei kuvia, taulukoissa vaatimukset.
 
@@ -73,8 +73,10 @@ Prosessimalli
 	Resurssit? Budjetti? -Ei mainittu 
 	Riskianalyysi? -Ei mainittu
 
-Johtopäätökset
+JohtopÃ¤Ã¤tÃ¶kset
 
-	Dokumentti on selkeä, se on hyvä.
+	Dokumentti on selkeÃ¤, se on hyvÃ¤.
 
+http://www.kanta.fi/documents/12105/4048508/K%C3%A4ytt%C3%B6tapaukset+apteekki/a2650491-12cc-40bf-8dd5-d1155865495e
+http://www.kanta.fi/documents/12105/3448591/eResepti_Maarittely_Vaatimukset_ApteekkiV2.6.pdf/5046f890-7edb-4605-981d-a39ded6b7f2a
 
