@@ -2,7 +2,7 @@
 
 Loppukäyttäjinä järjestelmässä olisi ylläpito, sekä opiskelija.
 Ylläpito pitäisi huolta, että ruokalista olisi ajantasalla.
-
+http://users.metropolia.fi/~tuukkaan/Ohjelmistotuotanto/Visio-K%C3%A4ytt%C3%B6tapaukset.pdf
 
 
 * Määritä tänne järjestelmän loppukäyttäjät
