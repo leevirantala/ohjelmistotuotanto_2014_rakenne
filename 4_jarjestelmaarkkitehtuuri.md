@@ -11,9 +11,16 @@
                         - Liha/Kanaruoka
                         - Kalaruoka
                         - Kasvisvaihtoehto      
-                         - Jälkiruoka
+                        - Jälkiruoka
         - Jonon pituus
                 - Montako käyttäjää jonossa
+        - Käytössä olevat tuolit
+                - Käyttäjiä salissa
+        - Käytössä olevat pöydät
+                - Pöytiä käytössä
+        - Livekuva
+        
+        
 
 * Pyri kuvailemaan tässä luvussa järjestelmäarkkitehtuuri yleisellä tasolla
 * Mitä komponentteja järjestelmään tarvitaan jotta se pystyy palvelemaan määritettyjä käyttötapauksia?
