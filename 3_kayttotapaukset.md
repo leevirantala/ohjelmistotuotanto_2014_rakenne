@@ -1,5 +1,10 @@
 ## Käyttötapaukset
 
+Loppukäyttäjinä järjestelmässä olisi ylläpito, sekä opiskelija.
+Ylläpito pitäisi huolta, että ruokalista olisi ajantasalla.
+
+
+
 * Määritä tänne järjestelmän loppukäyttäjät
 * Käyttötapauskaavio, jossa järjestelmän keskeiset käyttötapaukset
 * Kuvaile tärkeimmät käyttötapauksista käyttötapausskenaarioina mallipohjaan perustuen
