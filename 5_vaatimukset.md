@@ -3,7 +3,7 @@
 
 Ohjelmisto sisältää kolme-alasivua, joista yksi on aina auki.
 
-Sivun yläosassa on jokaisella näistä sivuista samanlainen neli-paikkainen valikko, josta haluttua sivua painamalla voidaan siirtyä kyseiselle sivulle. Valikko pysyy aina näkyvillä. Sivut ovat: Jono&ruoka, Live, Vapaat paikat ja Sulje.
+Sivun yläosassa on jokaisella näistä sivuista samanlainen neli-paikkainen valikko, josta haluttua sivua painamalla voidaan siirtyä kyseiselle sivulle. Valikko pysyy aina näkyvillä. Sivut ovat: Jono&ruoka, Live, Viikon menu ja Sulje.
 
 Applikaation käynnistyessä oletussivuna ensimmäisenä aukeaa Jono&ruoka-sivu. Sivu on kevyt, ja sisältää päivän ruokalistan, jonon arvioidun pituuden tekstimuodossa sekä vapaiden pöytien ja penkkien lukumäärän. Sivu sovittuu käytettävän laitteen näytön mukaisesti, jotta vältetään turha selailu. Kevyt ja hyödyllinen sivu ensimmäiseksi, jotta latausajat pysyvät minimissä.
 
