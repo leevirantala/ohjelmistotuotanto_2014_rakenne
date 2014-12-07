@@ -2,7 +2,7 @@
 
 Loppukäyttäjinä sovelluksella olisi ylläpito ja peruskäyttäjä.
 Ylläpito pitäisi huolta, että sovelluksesta saatava tieto olisi ajantasalla ja peruskäyttäjällä olisi pelkät lukuoikeudet.
-http://users.metropolia.fi/~tuukkaan/Ohjelmistotuotanto/kayttotapaukset.jpg
+http://users.metropolia.fi/~tuukkaan/Ohjelmistotuotanto/kayttotapaukset.png
 
 
 * Kuvaile tärkeimmät käyttötapauksista käyttötapausskenaarioina mallipohjaan perustuen
