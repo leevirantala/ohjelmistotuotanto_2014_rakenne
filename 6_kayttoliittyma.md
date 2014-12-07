@@ -1,15 +1,15 @@
 ## Käyttöliittymä
 
-Aloitusnäkymä
-- Päivän ruokalista
+Aloitusnäkymä:
 - Arvioitu jonotusaika
+- Päivän ruokalista
 - Vapaat pöydät/istumapaikat
 
-Livekuva-näkymä
+Livekuva-näkymä:
 - Live-kuvaa ruokalasta
 - Arvioitu jonotusaika
 
-Viikon menu-näkymä
+Viikon menu-näkymä:
 - Kyseisen viikon ruokalista
 - Tämän hetkisen jonon arvioitu jonotusaika
 
