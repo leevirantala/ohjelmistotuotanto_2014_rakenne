@@ -13,7 +13,7 @@ Kolmas sivu on Viikon menu, josta löytyy kyseisen viikon ruokalista päiväjär
 
 Neljäs ja viimeinen on sulje, josta painamalla applikaatio suljetaan, ja ohjelman käyttämä välimuisti vapautetaan.
 
-Ei-toiminnalliset vaatimukset.
+2. Ei-toiminnalliset vaatimukset.
 
 Sivujen vaatimat tiedot tulevat omalta serveriltä (live-kuvat, ruokalista, jonon ja paikkojen määrä). Tietomäärät eivät ole suuria, koska live-kuvaakaan ei ole tarvetta säilyttää. Kuitenkin live-kuvan lähetystä voidaan vaatia jopa pariin sataan laitteeseen kerrallaan, joten servereitä metropolian verkossa voidaan vaatia useampia.
 
@@ -23,7 +23,7 @@ Vapaiden paikkojen määrä perustuu käyttäjien gps-sijaintiin jota serveri ve
 
 Mahdolliset järjestelmävirheet ovat todennäköisesti seurausta yhteysvirheistä. Virheiden ilmaantuessa annetaan ilmoitus: "possible connection problems, check connection and restart application". Koska applikaatio on kevyt, uudelleenkäynnistys ei vaadi aikaa eikä vaivaa.
 
-Vaatimukset käyttäjältä.
+3. Vaatimukset käyttäjältä.
 
 Applikaation käyttö vaatii itse applikaation lisäksi vain internet-yhteyden, jonka latausnopeus riittää livekuvan vastaanottamiseen. Lisäksi GPS-tiedot vaaditaan. Metropolian toimipisteissä on opiskelijoille sekä henkilökunnalle oma WiFi-yhteys, jonka nopeus riittää palvelun käyttämiseen.
 
