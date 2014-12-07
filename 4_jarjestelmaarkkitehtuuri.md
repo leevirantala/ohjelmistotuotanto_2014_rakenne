@@ -19,7 +19,7 @@
                 - Käyttäjiä salissa
         - Käytössä olevat pöydät
                 - Pöytiä käytössä
-        - Livekuva
+        - Livekuvat (jono ja sali)
         
 4. Sisätilapaikannus
 
