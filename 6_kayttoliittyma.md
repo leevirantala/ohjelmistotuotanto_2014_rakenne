@@ -10,9 +10,6 @@ Livekuva-näkymä
 - Arvioitu jonotusaika
 
 Viikon menu-näkymä
+- Kyseisen viikon ruokalista
+- Tämän hetkisen jonon arvioitu jonotusaika
 
-
-
-* listaa käyttöliittymän näkymät
-* niiden keskinäiset suhteet
-* kuvaile mitä näkymässä tapahtuu / tehdään
