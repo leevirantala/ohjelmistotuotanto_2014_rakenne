@@ -5,11 +5,11 @@ Ohjelmisto sisältää kolme-alasivua, joista yksi on aina auki.
 
 Sivun yläosassa on jokaisella näistä sivuista samanlainen neli-paikkainen valikko, josta haluttua sivua painamalla voidaan siirtyä kyseiselle sivulle. Valikko pysyy aina näkyvillä. Sivut ovat: Jono&ruoka, Live, Vapaat paikat ja Sulje.
 
-Applikaation käynnistyessä oletussivuna ensimmäisenä aukeaa Jono&ruoka-sivu. Sivu on kevyt, ja sisältää ruokalistan sekä jonon arvioidun pituuden tekstimuodossa. Sivu sovittuu käytettävän laitteen näytön mukaisesti, jotta vältetään turha selailu. Kevyt ja hyödyllinen sivu ensimmäiseksi, jotta latausajat pysyvät minimissä.
+Applikaation käynnistyessä oletussivuna ensimmäisenä aukeaa Jono&ruoka-sivu. Sivu on kevyt, ja sisältää päivän ruokalistan, jonon arvioidun pituuden tekstimuodossa sekä vapaiden pöytien ja penkkien lukumäärän. Sivu sovittuu käytettävän laitteen näytön mukaisesti, jotta vältetään turha selailu. Kevyt ja hyödyllinen sivu ensimmäiseksi, jotta latausajat pysyvät minimissä.
 
-Yläpalkissa seuraava sivu on Live. Palkkia painettaessa siirrytään kyseiselle sivulle, josta on mahdollista tarkastaa ruokalan tilanne live-kuvasta. Live-kuva tulee sovitettuna laitteen näyttöön, ylä-palkin pysyessä näkyvissä kuvan yläpuolella.
+Yläpalkissa seuraava sivu on Live. Palkkia painettaessa siirrytään kyseiselle sivulle, josta on mahdollista tarkastaa ruokalan tilanne live-kuvasta. Live-kuva tulee sovitettuna laitteen näyttöön, ylä-palkin pysyessä näkyvissä kuvan yläpuolella. Näkymän alalaidassa lukee myös jonon arvioitu pituus.
 
-Kolmas sivu on Vapaat paikat, jossa ohjelma ilmoittaa vapaiden istumapaikkojen sekä pöytien määrän selkeästi tekstimuodossa. Sisältää myös palkin nimeltä “tarkista live-kuvasta”, josta painamalla avataan live-kuva ruokalan pöydistä. Myös tämä kuva sovittuu laitteen näyttöön, avautuen palkin päälle, tekstien alle.
+Kolmas sivu on Viikon menu, josta löytyy kyseisen viikon ruokalista päiväjärjestyksessä näyttäen oletuksen kyseisen päivän ruokalistan. sivun alaidassa lukee myös tämänhetkisen jonon arvioitu pituus.
 
 Neljäs ja viimeinen on sulje, josta painamalla applikaatio suljetaan, ja ohjelman käyttämä välimuisti vapautetaan.
 
