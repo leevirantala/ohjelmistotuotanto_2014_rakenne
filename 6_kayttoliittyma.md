@@ -9,6 +9,8 @@ Livekuva-näkymä
 - Live-kuvaa ruokalasta
 - Arvioitu jonotusaika
 
+Viikon menu-näkymä
+
 
 
 * listaa käyttöliittymän näkymät
