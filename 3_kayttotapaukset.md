@@ -16,7 +16,3 @@ Käyttötapausskenaario 3 (suomenkielinen peruskäyttäjä):
 Käyttötapausskenaario 4 (suomenkielinen peruskäyttäjä, virhe):
   Käyttäjä avaa sovelluksen, sulkee (tai jättää huomiotta) kielivaihtoehto-kysymyksen, mutta tietoja ei ole saatavilla, sen sijaan näyttöön tulee ilmoitus "possible connection failure, check connection and restart application". Käyttäjä sulkee sovelluksen, kytkee laitteensa verkon päälle ja käynnistää sovelluksen uudestaan. Ruoka vaikuttaa hyvältä eikä jonoakaan pitäisi olla. Käyttäjä sulkee sovelluksen.
 
-* Kuvaile tärkeimmät käyttötapauksista käyttötapausskenaarioina mallipohjaan perustuen
-  * mallipohja: määritä alkutila (initial state), normaali kulku (normal flow), lopputila (end state)
-  * kerro myös kuinka normaali kulku voi mennä pieleen sekä
-  * mahdolliset vaihtoehtoiset kulut (alternate flow)
