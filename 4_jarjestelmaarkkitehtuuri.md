@@ -5,7 +5,8 @@
 2. Kontrolli / logiikkakerros (aivot!)
 
 3. tietokanta
-
+        
+        - Käyttäjien sijainti
         - Menu
                 - Viikonpäivä
                         - Liha/Kanaruoka
