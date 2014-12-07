@@ -1,5 +1,5 @@
 ## Vaatimukset 
-1. Toiminnalliset vaatimukset.
+1.Toiminnalliset vaatimukset.
 
 Ohjelmisto sisältää kolme-alasivua, joista yksi on aina auki.
 
