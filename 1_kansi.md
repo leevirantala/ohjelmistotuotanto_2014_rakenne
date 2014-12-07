@@ -1,10 +1,7 @@
 
 ## Projektin kansilehti 
 
-Listaa tänne
-
-* Projektin otsikko eli tuotteen nimi
-* Tiimin nimi
-* Tiimin jäsenet
-* Päivämäärä
-* Dokumentin versio, jos tarpeen 
+* Need Food?
+* Good, Bad and the Hungry
+* Tuukka Nisso
+* 07.12.2014
