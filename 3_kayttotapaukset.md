@@ -1,7 +1,7 @@
 ## Käyttötapaukset
 
 Loppukäyttäjinä järjestelmässä olisi ylläpito, sekä opiskelija.
-Ylläpito pitäisi huolta, että ruokalista olisi ajantasalla.
+Ylläpito pitäisi huolta, että sovelluksesta saatava tieto olisi ajantasalla ja opiskelijalla olisi pelkät lukuoikeudet.
 http://users.metropolia.fi/~tuukkaan/Ohjelmistotuotanto/kayttotapaukset.jpg
 
 
