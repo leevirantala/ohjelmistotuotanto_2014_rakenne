@@ -3,5 +3,5 @@
 
 * Need Food?
 * Good, Bad and the Hungry
-* Tuukka Nisso
+* Tuukka Nisso, Leevi Rantala ja Jere Kunnas
 * 7.12.2014
