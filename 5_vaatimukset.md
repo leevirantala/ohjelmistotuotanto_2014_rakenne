@@ -3,7 +3,7 @@
 
 Ohjelmisto sisältää kolme-alasivua, joista yksi on aina auki.
 
-Sivun yläosassa on jokaisella näistä sivuista samanlainen neli-paikkainen valikko, josta haluttua sivua painamalla voidaan siirtyä kyseiselle sivulle. Valikko pysyy aina näkyvillä. Sivut ovat: Jono&ruoka, Live, Viikon menu ja Sulje.
+Sivun yläosassa on jokaisella näistä sivuista samanlainen neli-paikkainen valikko, josta haluttua sivua painamalla voidaan siirtyä kyseiselle sivulle. Valikko pysyy aina näkyvillä. Sivut ovat: Jono&ruoka, Live, Vapaat paikat ja Sulje.
 
 Applikaation käynnistyessä oletussivuna ensimmäisenä aukeaa Jono&ruoka-sivu. Sivu on kevyt, ja sisältää päivän ruokalistan, jonon arvioidun pituuden tekstimuodossa sekä vapaiden pöytien ja penkkien lukumäärän. Sivu sovittuu käytettävän laitteen näytön mukaisesti, jotta vältetään turha selailu. Kevyt ja hyödyllinen sivu ensimmäiseksi, jotta latausajat pysyvät minimissä.
 
@@ -13,7 +13,7 @@ Kolmas sivu on Viikon menu, josta löytyy kyseisen viikon ruokalista päiväjär
 
 Neljäs ja viimeinen on sulje, josta painamalla applikaatio suljetaan, ja ohjelman käyttämä välimuisti vapautetaan.
 
-2. Ei-toiminnalliset vaatimukset.
+Ei-toiminnalliset vaatimukset.
 
 Sivujen vaatimat tiedot tulevat omalta serveriltä (live-kuvat, ruokalista, jonon ja paikkojen määrä). Tietomäärät eivät ole suuria, koska live-kuvaakaan ei ole tarvetta säilyttää. Kuitenkin live-kuvan lähetystä voidaan vaatia jopa pariin sataan laitteeseen kerrallaan, joten servereitä metropolian verkossa voidaan vaatia useampia.
 
@@ -23,7 +23,7 @@ Vapaiden paikkojen määrä perustuu käyttäjien gps-sijaintiin jota serveri ve
 
 Mahdolliset järjestelmävirheet ovat todennäköisesti seurausta yhteysvirheistä. Virheiden ilmaantuessa annetaan ilmoitus: "possible connection problems, check connection and restart application". Koska applikaatio on kevyt, uudelleenkäynnistys ei vaadi aikaa eikä vaivaa.
 
-3. Vaatimukset käyttäjältä.
+Vaatimukset käyttäjältä.
 
 Applikaation käyttö vaatii itse applikaation lisäksi vain internet-yhteyden, jonka latausnopeus riittää livekuvan vastaanottamiseen. Lisäksi GPS-tiedot vaaditaan. Metropolian toimipisteissä on opiskelijoille sekä henkilökunnalle oma WiFi-yhteys, jonka nopeus riittää palvelun käyttämiseen.
 
