@@ -26,7 +26,3 @@
         -syöte: puhelimen keräämät gps-kordinaatti data, kameran kuva sekä pöytien painesensorit
         -tulos: sijaintitiedot ja varatut penkit/pöydät
 
-
-* Pyri kuvailemaan tässä luvussa järjestelmäarkkitehtuuri yleisellä tasolla
-* Mitä komponentteja järjestelmään tarvitaan jotta se pystyy palvelemaan määritettyjä käyttötapauksia?
-*
