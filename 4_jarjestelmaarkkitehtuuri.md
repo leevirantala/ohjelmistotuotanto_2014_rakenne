@@ -14,9 +14,9 @@
                         - Kasvisvaihtoehto      
                         - Jälkiruoka
         - Jonon pituus
-                - Montako käyttäjää jonossa
+                - Kuinka monta käyttäjää jonossa
         - Käytössä olevat tuolit
-                - Käyttäjiä salissa
+                - Montako käyttäjää salissa
         - Käytössä olevat pöydät
                 - Pöytiä käytössä
         - Livekuvat (jono ja sali)
