@@ -21,9 +21,8 @@
                 - Pöytiä käytössä
         - Livekuva
         
- Sisätilapaikannuskomponentti
+4. Sisätilapaikannus
 
-        -alikomponentti
         -syöte: puhelimen keräämät gps-kordinaatti data, kameran kuva sekä pöytien painesensorit
         -tulos: sijaintitiedot ja varatut penkit/pöydät
 
